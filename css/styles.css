@@ -1,0 +1,213 @@
+/*колір оснвих надписів #212121*/
+
+
+/*колір другорядних надписів #757575*/
+
+
+/*колір кнопок #2196F3*/
+
+
+/*білий #F5F5F5*/
+
+
+/*фоновий*#2F303A*/
+
+
+/*Logo*/
+
+.logo-link {
+    color: #2196f3;
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1, 19;
+}
+
+.logo-header {
+    color: #000000;
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+}
+
+
+/*nav*/
+
+.nav-link {
+    color: #212121;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #2196f3;
+}
+
+.contact {
+    color: #757575;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+
+.contact:hover,
+.contact:focus {
+    color: #2196f3;
+}
+
+.contact-footer {
+    color: #757575;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+
+.contact-footer:hover,
+.contact-footer:focus {
+    color: #2196f3;
+}
+
+
+/*section */
+
+.section1 {
+    background-color: #2f303a;
+}
+
+.section-hero {
+    color: #f5f5f5;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.hero-link {
+    color: #f5f5f5;
+    background-color: #2196f3;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    /* identical to box height, or 188% */
+    text-align: center;
+}
+
+.hero-link1 {
+    color: #f5f5f5;
+    background-color: #2196f3;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    /* identical to box height, or 188% */
+    letter-spacing: 0.06em;
+}
+
+.hero-text {
+    color: #f5f5f5;
+}
+
+.section-titel {
+    color: #212121;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.section-titel1 {
+    color: #212121;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.section-description {
+    color: #757575;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    /* or 171% */
+    letter-spacing: 0.03em;
+}
+
+.work-title {
+    color: #757575;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.worker-name {
+    color: #212121;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+
+/*footer*/
+
+.logo-footer {
+    color: #f5f5f5;
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1, 19;
+    /* or 171% */
+    letter-spacing: 0.03em;
+}
+
+.footer-address {
+    color: #f5f5f5;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    /* or 171% */
+    letter-spacing: 0.03em;
+}
